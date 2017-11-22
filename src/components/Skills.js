@@ -56,9 +56,6 @@ function Skills(){
             Cross Browser Testing &amp; Debugging</li>
           <li>
             <i className="fa-li fa fa-check"></i>
-            Cross Functional Teams</li>
-          <li>
-            <i className="fa-li fa fa-check"></i>
             Agile Development &amp; Scrum</li>
         </ul>
       </div>
