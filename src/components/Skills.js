@@ -46,17 +46,32 @@ function Skills(){
           </li>
         </ul>
 
-        <div className="subheading mb-3">Workflow</div>
+        <div className="subheading mb-3"></div>
         <ul className="fa-ul mb-0">
           <li>
+            <p>
             <i className="fa-li fa fa-check"></i>
-            Mobile-First, Responsive Design</li>
+            <b>Technology</b> ---- Android, AWS, Firebase, GraphQL, Git, Heroku, HTML/CSS, Java, Linux, Node.js, React JS, Redux, Ruby on Rails.
+            </p>
+          </li>
           <li>
+            <p>
             <i className="fa-li fa fa-check"></i>
-            Cross Browser Testing &amp; Debugging</li>
+            <b>Coursework</b> ---- Internet App Development, Intro to Databases, Mobile App Development, Software Engineering and Development.
+            </p>
+          </li>
           <li>
+            <p>
             <i className="fa-li fa fa-check"></i>
-            Agile Development &amp; Scrum</li>
+            <b>Framework</b> ---- Espresso, Mockito, AndroidJUnitRunner, Ruby on Rails, React, Redux.
+            </p>
+          </li>
+          <li>
+            <p>
+            <i className="fa-li fa fa-check"></i>
+            <b>Database</b> ---- MySQL, MongoDB, SQLite, JDBC, Firebase.
+            </p>
+          </li>
         </ul>
       </div>
     </section>

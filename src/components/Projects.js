@@ -6,7 +6,7 @@ function Projects(){
         <div className="my-auto">
           <h2 className="mb-5">Projects
           <i className="list-inline-item list-social-icons mb-0">
-            <a href="https://github.com/SaiKUndurthi/" target="_blank">
+            <a href="https://github.com/SaiKUndurthi/" target="_blank" title="GitHub">
               <span className="fa-stack fa-lg">
                 <i className="fa fa-circle fa-stack-2x"></i>
                 <i className="fa fa-github fa-stack-1x fa-inverse"></i>
