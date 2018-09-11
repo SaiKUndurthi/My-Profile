@@ -18,16 +18,13 @@ function Skills(){
             <i className="devicons devicons-javascript"></i>
           </li>
           <li className="list-inline-item">
-            <i className="devicons devicons-jquery"></i>
+            <i className="devicons devicons-docker"></i>
           </li>
           <li className="list-inline-item">
             <i className="devicons devicons-android"></i>
           </li>
           <li className="list-inline-item">
             <i className="devicons devicons-github"></i>
-          </li>
-          <li className="list-inline-item">
-            <i className="devicons devicons-bootstrap"></i>
           </li>
           <li className="list-inline-item">
             <i className="devicons devicons-java"></i>
@@ -51,7 +48,7 @@ function Skills(){
           <li>
             <p>
             <i className="fa-li fa fa-check"></i>
-            <b>Technology</b> ---- Android, AWS, Firebase, GraphQL, Git, Heroku, HTML/CSS, Java, Linux, Node.js, React JS, Redux, Ruby on Rails.
+            <b>Technology</b> ---- Android, AWS, Docker, Kubernetes, Firebase, GraphQL, Git, HTML/CSS, Java, Linux, Node.js, React JS, Redux.
             </p>
           </li>
           <li>
@@ -63,7 +60,7 @@ function Skills(){
           <li>
             <p>
             <i className="fa-li fa fa-check"></i>
-            <b>Framework</b> ---- Espresso, Mockito, AndroidJUnitRunner, Ruby on Rails, React, Redux.
+            <b>Framework</b> ---- Espresso, Mockito, AndroidJUnitRunner, React, Redux.
             </p>
           </li>
           <li>

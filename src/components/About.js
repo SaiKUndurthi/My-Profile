@@ -14,7 +14,7 @@ function About(){
           Used SQL and NoSQL Databases. Exposure to working in agile work environment. Passionate about learning and using new technologies. Currently looking for Internships/Full-Time Opportunities as a Software Developer. </p>
           <ul className="list-inline list-social-icons mb-0">
             <li className="list-inline-item">
-              <a href="https://www.linkedin.com/in/saiundurthi/" target="_blank" title="Linkedin">
+              <a href="https://www.linkedin.com/in/saiundurthi/" target="_blank" rel="noopener noreferrer" title="Linkedin">
                 <span className="fa-stack fa-lg">
                   <i className="fa fa-circle fa-stack-2x"></i>
                   <i className="fa fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -22,7 +22,7 @@ function About(){
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://github.com/SaiKUndurthi/" target="_blank" title="GitHub">
+              <a href="https://github.com/SaiKUndurthi/" target="_blank" rel="noopener noreferrer" title="GitHub">
                 <span className="fa-stack fa-lg">
                   <i className="fa fa-circle fa-stack-2x"></i>
                   <i className="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -30,7 +30,7 @@ function About(){
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://drive.google.com/file/d/1NL72TRKS_WZAonjgPRS1cf-YX2SRJKh6/view?usp=sharing" target="_blank" title="Resume PDF">
+              <a href="https://drive.google.com/file/d/1pvP5fL5kdiJ6fn8NclePQmkD6hHLgknr/view?usp=sharing" target="_blank" rel="noopener noreferrer" title="Resume PDF">
                 <span className="fa-stack fa-lg">
                   <i className="fa fa-circle fa-stack-2x"></i>
                   <i className="fa fa-file-pdf-o fa-stack-1x fa-inverse"></i>
